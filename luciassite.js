@@ -20,7 +20,7 @@ j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*7)+1);var xxx=null;if(x=="1"){xxx="creatif.html"}
 if(x=="2"){xxx="oppo.html"}
-if(x=="3"){xxx="careers.html"}
+if(x=="3"){xxx="car.html"}
 if(x=="4"){xxx="healthcare.html"}
 if(x=="5"){xxx="business.html"}
 if(x=="6"){xxx="management.html"}
