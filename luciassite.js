@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*7)+1);var xxx=null;if(x=="1"){xxx="creatif.html"}
 if(x=="2"){xxx="oppo.html"}
 if(x=="3"){xxx="car.html"}
-if(x=="4"){xxx="healthcare.html"}
+if(x=="4"){xxx="care.html"}
 if(x=="5"){xxx="business.html"}
 if(x=="6"){xxx="management.html"}
 if(x=="7"){xxx="health.html"}a_to_ve[i].href="http://www.luciascatering.com/2021/09/"+xxx+"?url="+encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+a_to_ve[i].href+"\n";}}
